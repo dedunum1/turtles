@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>movie blog</title>
+    </head>
+    <body>
+        <header><h1 id="welcome to my movie blog"></h1></header>
+        <nav>
+            <a href="#Home">Home</a>
+            <a href="#Contact">contact</a>
+            <a href="#FAQ">FAQ</a>
+        </nav>
+        <!-- TO DO:add Navigation bar-->
+        <h1 ID="mainheading">welcome to movie blog</h1>
+        <h2>inroduction</h2>
+        <!--Brief intro-->
+        <p>
+            <i>ipsum dolor, sit amet consectetur adipisicing elit. Quod quam dolorum magni aliquam possimus ut, quos nemo illo? Doloribus, esse in, voluptates assumenda sit maiores asperiores ab eligendi Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam dicta, debitis placeat repellendus minus expedita laudantium consectetur accusamus ea nobis dolor! Dolor sit laborum aut cum exercitationem ullam asperiores dicta minima cupiditate quasi, deleniti omnis neque obcaecati fuga debitis quae, soluta eius? Consequatur neque provident sed doloribus maxime sunt? Veniam.</i>
+        <dl>
+            <dt>abc</dt>
+            <dd>any one can dance</dd>
+        </dl>
+        <br>aliquam dolorem temporibus autem maxime cumque possimus cupiditate nobis provident fuga repellendus iste ullam laborum, enim minima. Magni non omnis consequuntur &nbsp;&nbsp;ab.
+</p><h3>creed 3</h3>
+<img src="./creed_3_1280x1920 (1).webp" alt="Film cover for creed 3" width="400" border="10">
+<h3>harry potter</h3>
+<h3>Charactors</h3>
+<ol>
+    <li>HARRY potter</li>
+    <LI>RON WIESLY</LI>
+    <LI>HERMIONE GRANGER</LI>
+    <LI>HAGRID</LI>
+    <LI>DUMBLEDORE</LI>
+</ol>
+<ul>
+    <li>voldermort</li>
+    <li>ginny weisly</li>
+    <li>draco malfoy</li>
+</ul>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi inventore nobis eaque. Quidem, asperiores quae fugiat laudantium consequatur consequuntur. Odio expedita a facilis soluta porro totam est? Blanditiis porro qui quis distinctio, voluptate ullam eaque, dolore adipisci ut veritatis, eos magni similique. Quia expedita sequi cumque modi fugiat libero, commodi quae animi labore, culpa cum pariatur accusamus ab tempora, quidem beatae natus temporibus ad unde saepe quibusdam qui inventore ea. Ipsam, adipisci molestiae? Inventore cumque doloremque iste itaque temporibus sint, facere neque architecto delectus reprehenderit iure magnam autem laborum aperiam ut consectetur excepturi natus, vero, nemo earum fuga sunt cum et voluptates. Deleniti, nulla repellat quos mollitia ea iure voluptate eveniet aspernatur. Praesentium minus, vero debitis sed, magni officiis facilis incidunt vel dolorum quasi ratione pariatur optio nisi itaque numquam, tempore omnis voluptas non dolorem quidem doloribus ut quam tempora veniam. Assumenda porro doloribus, in deleniti repudiandae debitis incidunt quas?
+  <a href="https://en.wikipedia.org/wiki/Harry_Potter" target="blank">read more</a>
+<img src="./Harry-potter-films.webp" alt="file cover for harry potter" width="400" border="10">
+<h3>creed 2</h3>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque consequatur animi, dolores minima iste nulla architecto numquam similique temporibus aperiam perspiciatis. Nostrum porro optio expedita sequi iure eveniet fugiat. Nulla ad debitis laboriosam, non doloremque vel soluta officiis quis ducimus similique fuga assumenda rem quasi doloribus facere. A, delectus iusto cupiditate, necessitatibus sit nesciunt doloremque consequuntur dicta eos harum ea error exercitationem eius cum debitis? Eius itaque officia totam ut sit. Asperiores delectus similique nemo earum, neque nobis molestias laborum placeat ab repellat a veniam autem exercitationem natus velit omnis doloremque, cupiditate quam hic non dolorum! Consequatur, reprehenderit. Earum eius, dolor consequuntur officia cupiditate magni obcaecati quibusdam laboriosam impedit repellendus labore consectetur omnis ab facere sequi deleniti accusantium illo asperiores dicta veritatis ratione placeat! Maiores ducimus quam culpa numquam, voluptatem laboriosam pariatur excepturi laudantium harum animi corporis, accusamus minima ullam itaque tenetur deleniti ab, tempora modi beatae repellendus. Delectus, vero.
+  
+<figure>
+    <img src="./download (1).jpeg" alt="film cover for creed 2" width="400" border="10">
+</figure>
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut deleniti ea sapiente, quae libero nemo neque enim et ab velit commodi placeat tempora adipisci quos numquam nam error, explicabo voluptatibus non? Itaque unde expedita cum mollitia ullam velit pariatur atque molestias. Voluptas, totam autem! Dicta sequi illum debitis laudantium, explicabo minima modi laborum ab? Alias quos facilis in aspernatur vero dolorem, tenetur dolore repellat aliquam beatae perspiciatis, rerum vitae nihil officiis error debitis eveniet voluptatibus! Modi nemo labore molestias cumque voluptatem! Tempora, velit minus odio dolorum non, odit quo repellendus beatae voluptatibus perferendis ut laboriosam inventore voluptate dolore vitae. Laboriosam, aliquid corporis! Repudiandae impedit atque distinctio minus nobis odit consequatur, facere laudantium natus sit ullam maiores alias officiis voluptatibus quidem molestiae repellat ex explicabo qui sint! Nihil unde sint quidem maiores dicta impedit repudiandae quos architecto accusantium? Laboriosam facilis quae modi amet, atque voluptatibus quaerat minima rerum, praesentium velit voluptates.
+  <br>
+<a href="#mainheading">GO TO TOP</a>
+<br>
+<a href="mailto:dedunuchathura@gmail.com">contact me</a>
+<ol>
+    <li>
+        animals
+        <</li>
+  <ul>
+            <li>cat</li>
+            <li>fish</li>
+            <li>fish</li>
+        </ul>
+</ol>
+</body></html>

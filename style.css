@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Roboto|Anuphan');
+#photo{
+    height: 600px;
+    margin:15px;
+    float:left;
+    width:200px;
+    background-color: rgb(82,77,78);
+}
+#myname,#jobtitle {
+    color: whitesmoke;
+}
+#intro
+{ float: left;
+    text-align: justify;
+    width: 1000px;
+    margin: 5px;
+    margin-top: 17px;
+    
+
+
+}
+#abouthead
+{
+    color: whitesmoke ;
+    background-color: rgb(82,77,78);width: 150px;
+}
+body
+{
+    background-color: rgb(212,210,210);
+    font-family: "Dancing Script",Roboto;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right:8px;
+    border-bottom: 3px solid rgb(82,77,78);
+}
+nav a:hover{
+    background-color: whitesmoke;
+}
+#nav
+{ float: right;
+margin-right:300px;}
